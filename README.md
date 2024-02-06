@@ -1,4 +1,4 @@
-# eureka
+# Eureka
 Just a Test Repo!
 
 ##Editing the file
